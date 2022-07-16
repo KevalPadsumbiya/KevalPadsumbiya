@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevalPadsumbiya, Assistant Systems Engineer at TCS
+- 👋 Hi, I’m @KevalPadsumbiya, Software Engineer I
 - 👀 I’m interested in solving complex problems
 
 <!---
